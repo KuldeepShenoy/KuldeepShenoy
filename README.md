@@ -16,7 +16,7 @@
   <a href="https://discordapp.com/users/733704199736655962" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="hkuldeepshenoy@gmail.com" target="_blank">
+  <a href="https://myaccount.google.com/u/1/?hl=en&utm_source=OGB&utm_medium=act&gar=WzEyMF0&pli=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://app.slack.com/client/T060N3U8LRG/D063ZTUNDFE" target="_blank">
