@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> AI/ML Enthusiast | Student from Karnataka, India . I'm Kuldeep Shenoy, a passionate student diving deep into the fascinating world of Artificial Intelligence and Machine Learning. I love solving real-world problems using innovative algorithms and cutting-edge technologies .</p>
+<p align="left"> I'm Kuldeep Shenoy, a passionate student diving deep into the fascinating world of Artificial Intelligence and Machine Learning. I love solving real-world problems using innovative algorithms and cutting-edge technologies .</p>
 
 ###
 
