@@ -1,8 +1,8 @@
-<h1 align="left">Hey there!!</h1>
+<h1 align="left">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!!</h1>
 
 ###
 
-<p align="left"> I'm Kuldeep Shenoy, a passionate student diving deep into the fascinating world of Artificial Intelligence and Machine Learning. I love solving real-world problems using innovative algorithms and cutting-edge technologies .</p>
+<p align="left"> 𝐈'𝐦 𝐊𝐮𝐥𝐝𝐞𝐞𝐩 𝐒𝐡𝐞𝐧𝐨𝐲, 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐢𝐯𝐢𝐧𝐠 𝐝𝐞𝐞𝐩 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐟𝐚𝐬𝐜𝐢𝐧𝐚𝐭𝐢𝐧𝐠 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐈 𝐥𝐨𝐯𝐞 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐧𝐝 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 .</p>
 
 ###
 
