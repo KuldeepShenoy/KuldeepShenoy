@@ -1,13 +1,22 @@
-<h1 align="left">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!!</h1>
+<h1 align="left">𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h1>
 
 ###
 
-<p align="left"> 𝐈'𝐦 𝐊𝐮𝐥𝐝𝐞𝐞𝐩 𝐒𝐡𝐞𝐧𝐨𝐲, 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐢𝐯𝐢𝐧𝐠 𝐝𝐞𝐞𝐩 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐟𝐚𝐬𝐜𝐢𝐧𝐚𝐭𝐢𝐧𝐠 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐈 𝐥𝐨𝐯𝐞 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐧𝐝 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 .</p>
+<p align="left">𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞!! 𝐈'𝐦 𝐊𝐮𝐥𝐝𝐞𝐞𝐩 𝐒𝐡𝐞𝐧𝐨𝐲, 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐢𝐯𝐢𝐧𝐠 𝐝𝐞𝐞𝐩 𝐢𝐧𝐭𝐨 𝐭𝐡𝐞 𝐟𝐚𝐬𝐜𝐢𝐧𝐚𝐭𝐢𝐧𝐠 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠. 𝐈 𝐥𝐨𝐯𝐞 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐮𝐬𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐧𝐝 𝐜𝐮𝐭𝐭𝐢𝐧𝐠-𝐞𝐝𝐠𝐞 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬.</p>
 
 ###
+
+
+
+
+
+---
+###
+
+<h2 align="left">𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬:</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/h-kuldeep-shenoy/" target="_blank">
+   <a href="https://www.linkedin.com/in/h-kuldeep-shenoy/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/techie_shenoy" target="_blank">
@@ -26,28 +35,37 @@
 
 ###
 
-<h2 align="left">𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h2>
+<h2 align="left">𝐌𝐨𝐫𝐞 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
 
 ###
 
-<p align="left">✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐁𝐮𝐠𝐬 𝐒𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟏<br>📚 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐑𝐞𝐚𝐜𝐭<br>🎯 𝐆𝐨𝐚𝐥𝐬: 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫<br>🎲 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭:𝐈𝐭’𝐬 𝐚𝐥𝐥 𝟎’𝐬 𝐚𝐧𝐝 𝟏’𝐬</p>
+<p align="left">✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐁𝐮𝐠𝐬 𝐒𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟏<br>📚 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐑𝐞𝐚𝐜𝐭<br>🎯 𝐆𝐨𝐚𝐥𝐬: 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫<br>🎲 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: 𝐈𝐭’𝐬 𝐚𝐥𝐥 𝟎’𝐬 𝐚𝐧𝐝 𝟏’𝐬</p>
+
+###
+---
+
+### <h2 align="left">𝐓𝐨𝐩 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐝 𝐑𝐞𝐩𝐨:</h2>
+![](https://github-contributor-stats.vercel.app/api?username=KuldeepShenoy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=KuldeepShenoy&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
-<h2 align="left">𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐰𝐢𝐭𝐡</h2>
+<h2 align="left">💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+---
+###
+
+# 📊𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+![](https://github-readme-stats.vercel.app/api?username=KuldeepShenoy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KuldeepShenoy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KuldeepShenoy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ###
+---
