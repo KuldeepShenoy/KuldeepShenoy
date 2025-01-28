@@ -26,15 +26,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">𝐀𝐛𝐨𝐮𝐭 𝐦𝐞</h2>
 
 ###
 
-<p align="left">✨ Creating Bugs Since 2021<br>📚 I'm Currently Learning React<br>🎯 Goals: FullStackDeveloper<br>🎲 Fun fact: Did you know that the first computer bug was a real bug? In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer. She documented it as the "first actual case of bug being found," and the term "debugging" has been used ever since!</p>
+<p align="left">✨ 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐁𝐮𝐠𝐬 𝐒𝐢𝐧𝐜𝐞 𝟐𝟎𝟐𝟏<br>📚 𝐈'𝐦 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐑𝐞𝐚𝐜𝐭<br>🎯 𝐆𝐨𝐚𝐥𝐬: 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫<br>🎲 𝐅𝐮𝐧 𝐟𝐚𝐜𝐭: 𝐃𝐢𝐝 𝐲𝐨𝐮 𝐤𝐧𝐨𝐰 𝐭𝐡𝐚𝐭 𝐭𝐡𝐞 𝐟𝐢𝐫𝐬𝐭 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐛𝐮𝐠 𝐰𝐚𝐬 𝐚 𝐫𝐞𝐚𝐥 𝐛𝐮𝐠? 𝐈𝐧 𝟏𝟗𝟒𝟕, 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 𝐆𝐫𝐚𝐜𝐞 𝐇𝐨𝐩𝐩𝐞𝐫 𝐟𝐨𝐮𝐧𝐝 𝐚 𝐦𝐨𝐭𝐡 𝐬𝐭𝐮𝐜𝐤 𝐢𝐧 𝐚 𝐫𝐞𝐥𝐚𝐲 𝐨𝐟 𝐭𝐡𝐞 𝐇𝐚𝐫𝐯𝐚𝐫𝐝 𝐌𝐚𝐫𝐤 𝐈𝐈 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫. 𝐒𝐡𝐞 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐞𝐝 𝐢𝐭 𝐚𝐬 𝐭𝐡𝐞 "𝐟𝐢𝐫𝐬𝐭 𝐚𝐜𝐭𝐮𝐚𝐥 𝐜𝐚𝐬𝐞 𝐨𝐟 𝐛𝐮𝐠 𝐛𝐞𝐢𝐧𝐠 𝐟𝐨𝐮𝐧𝐝," 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐭𝐞𝐫𝐦 "𝐝𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠" 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐮𝐬𝐞𝐝 𝐞𝐯𝐞𝐫 𝐬𝐢𝐧𝐜𝐞!</p>
 
 ###
 
-<h2 align="left">I have been coding with</h2>
+<h2 align="left">𝐈 𝐡𝐚𝐯𝐞 𝐛𝐞𝐞𝐧 𝐜𝐨𝐝𝐢𝐧𝐠 𝐰𝐢𝐭𝐡</h2>
 
 ###
 
