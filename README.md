@@ -6,15 +6,18 @@
 
 ###
 
-<p align="left"> <a href="https://www.linkedin.com/in/h-kuldeep-shenoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/techie_shenoy/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/kuldeep_shenoy18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://github.com/KuldeepShenoy/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
-
----
 ###
 
 <h2 align="left">𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬:</h2>
 
 
 ###
+
+
+<p align="left"> <a href="https://www.linkedin.com/in/h-kuldeep-shenoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/techie_shenoy/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/kuldeep_shenoy18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <a href="https://github.com/KuldeepShenoy/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> 
+
+---
+
 
 
 <h2 align="left">𝐌𝐨𝐫𝐞 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:</h2>
