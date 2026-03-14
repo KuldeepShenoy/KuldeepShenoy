@@ -74,12 +74,6 @@ A passionate student diving deep into the fascinating world of Artificial Intell
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuldeepShenoy&theme=neon-dark&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=00ffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
-## Top Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KuldeepShenoy&limit=5&theme=neon&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
 ## Activity Graph
 
 <div align="center">
